@@ -1,7 +1,7 @@
 # Hi 👋, I'm Tanuj
 
 ### 💫 About Me:
-🧑‍🎓 I’m a B.Tech CSE (AI & ML) student at MIT Manipal<br>🔍 Currently trying to understand how neural networks actually learn, not just how to run them<br>🧩 I’m looking for help with research reading, implementation tricks & optimization techniques<br>🌱 I’m currently learning ResNet architecture and modern CNN design principles<br>🚀 Goal: Become an AI engineer who builds practical real-world systems, not just academic models<br>
+🧑‍🎓 I’m a B.Tech CSE (AI & ML) student at MIT Manipal<br>🔍 Currently trying to understand how neural networks actually learn, not just how to run them<br>🧩 Right now I'm into research reading, implementation tricks & optimization techniques<br>🌱 I’m currently learning ResNet architecture and modern CNN design principles<br>🚀 Goal: Become an AI engineer who builds practical real-world systems, not just academic models<br>
 
 
 ### 💻 Tech Stack:
